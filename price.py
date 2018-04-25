@@ -1,4 +1,4 @@
-# This file will contain the functions that fetch the average current price of a card, as well as price ranges
+# This contains the functions that fetch the average current price of a card, as well as price ranges.
 
 
 def current_price(card_id: int) -> int:
